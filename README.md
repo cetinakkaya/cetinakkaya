@@ -32,8 +32,6 @@
 
 </details>
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=link)](https://github.com/cetinakkaya)
-[![Medium Badge](https://img.shields.io/badge/-Medium-757575?style=flat-quare&labelColor=757575&logo=Medium&logoColor=white&link=link)](https://cetinakkaya.medium.com/)
-[![Linkedin](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=link)](https://www.linkedin.com/in/cetin-akkaya/)
-[![YouTube](https://img.shields.io/badge/-https://raw.githubusercontent.com/cetinakkaya/cetinakkaya/main/youtube-logo-hd-8.png)](https://youtube.com/@cetinakkaya)
+🔗 &nbsp;**Connect with me**
+<a href="https://linkedin.com/in/nathanColton" target="blank"><img align="center" src="https://raw.githubusercontent.com/nathanColton/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nathanColton" height="30" width="40" /></a>
 
