@@ -36,7 +36,6 @@
 <p align="left">
 <a href="https://dev.to/nathanColton" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="nathanColton" height="30" width="40" /></a>
 <a href="https://twitter.com/nathanColton" target="blank"><img align="center" src="https://raw.githubusercontent.com/nathanColton/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nathanColton" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/nathanColton" target="blank"><img align="center" src="https://raw.githubusercontent.com/nathanColton/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nathanColton" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/123456" target="blank"><img align="center" src="https://raw.githubusercontent.com/nathanColton/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="4214976" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/cetin-akkaya/" target="blank"><img align="center" src="https://raw.githubusercontent.com/cetinakkaya/cetinakkaya/main/174857.png" alt="cetinakkaya" height="30" width="40" /></a>
 <a href="https://youtube.com/@cetinakkaya" target="blank"><img align="center" src="https://raw.githubusercontent.com/cetinakkaya/cetinakkaya/main/youtube-logo-hd-8.png" alt="cetinakkaya" height="30" width="40" /></a>
 
