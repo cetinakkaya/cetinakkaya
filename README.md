@@ -10,3 +10,5 @@ Here are some ideas to get you started:
 - 📫 How to find me:
   - :bulb: [Medium Articles](https://cetinakkaya.medium.com/)
   - :office: [LinkedIn](https://www.linkedin.com/in/cetin-akkaya/)
+
+![](https://komarev.com/ghpvc/?username=cetinakkaya)
