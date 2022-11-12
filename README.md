@@ -1,25 +1,12 @@
 ### Hi there 👋
 
-<!--
 **cetinakkaya/cetinakkaya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-- :zap: I love math, programming, data science, and books
+- :zap: I love math, programming, and books
 - 🌱 I’m addicted to learning and growing every day
 - :earth_africa: I am currently sharing a little bit of my knowledge to the world through my blogs
-- 📫 How to find me: 
-  - :bulb: [Medium articles](https://medium.com/@nathan_86977/)
-  - :pencil2: [Daily Tips](https://mathdatasimplified.com/)
-  - :office: [LinkedIn](https://www.linkedin.com/in/nathancolton/)
--:speaker:[Podcast](https://medium.com/@nathan_86977/)
+- 📫 How to find me:
+  - :bulb: [Medium Articles](https://cetinakkaya.medium.com/)
+  - :office: [LinkedIn](https://www.linkedin.com/in/cetin-akkaya/)
