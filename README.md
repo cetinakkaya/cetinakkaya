@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 
 ### Connect with me:
 
-[![Youtube](./img/youtube-light.svg)](https://youtube.com/@cetinakkaya#gh-light-mode-only)
+[![Youtube](https://download.logo.wine/logo/YouTube/YouTube-Icon-Full-Color-Logo.wine.png)](https://youtube.com/@cetinakkaya#gh-light-mode-only)
 [![Youtube](./img/youtube-dark.svg)](https://youtube.com/@cetinakkaya#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/cetin-akkaya/#gh-light-mode-only)
