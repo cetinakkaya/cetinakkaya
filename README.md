@@ -31,8 +31,8 @@ Here are some ideas to get you started:
 
 ### Connect with me:
 
-[![website](./img/youtube-light.svg)](https://youtube.com/@cetinakkaya#gh-light-mode-only)
-[![website](./img/youtube-dark.svg)](https://youtube.com/@cetinakkaya#gh-dark-mode-only)
+[![Youtube](./img/youtube-light.svg)](https://youtube.com/@cetinakkaya#gh-light-mode-only)
+[![Youtube](./img/youtube-dark.svg)](https://youtube.com/@cetinakkaya#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/cetin-akkaya/#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/cetin-akkaya/#gh-dark-mode-only)
