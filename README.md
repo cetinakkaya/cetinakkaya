@@ -30,3 +30,4 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cetinakkaya&theme=chartreuse-dark&layout=compact" alt="languages" width="50%">  
 
+</details>
