@@ -31,3 +31,5 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cetinakkaya&theme=chartreuse-dark&layout=compact" alt="languages" width="50%">  
 
 </details>
+
+[![Medium Badge](https://img.shields.io/badge/-Medium-757575?style=flat-quare&labelColor=757575&logo=Medium&logoColor=white&link=link)](link)
