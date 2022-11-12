@@ -20,7 +20,6 @@
   - :office: [LinkedIn](https://www.linkedin.com/in/cetin-akkaya/)
   - 📺:[YouTube](https://youtube.com/@cetinakkaya)
 
-</details>
 
 <details>
   <summary>:zap: GitHub Stats</summary>
