@@ -12,3 +12,5 @@ Here are some ideas to get you started:
   - :office: [LinkedIn](https://www.linkedin.com/in/cetin-akkaya/)
 
 ![](https://komarev.com/ghpvc/?username=cetinakkaya)
+
+<img src="https://github-readme-stats.vercel.app/api?username=cetinakkaya&theme=chartreuse-dark" alt="my github stats" width="49%"/>
