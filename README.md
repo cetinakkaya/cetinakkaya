@@ -28,15 +28,10 @@ Here are some ideas to get you started:
 - :earth_africa: I am currently sharing a little bit of my knowledge to the world through my blogs
 - 🥅 2023 Goals: Learn more about DevOps
 - 😻 Fun fact: I love to read and walk
-
-### Connect with me:
-
-[![Youtube](https://download.logo.wine/logo/YouTube/YouTube-Icon-Full-Color-Logo.wine.png)](https://youtube.com/@cetinakkaya#gh-light-mode-only)
-[![Youtube](./img/youtube-dark.svg)](https://youtube.com/@cetinakkaya#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/cetin-akkaya/#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/cetin-akkaya/#gh-dark-mode-only)
-&nbsp;&nbsp;
+- 📫 How to find me:
+  - :bulb: [Medium Articles](https://cetinakkaya.medium.com/)
+  - :office: [LinkedIn](https://www.linkedin.com/in/cetin-akkaya/)
+  - 📺:[YouTube](https://youtube.com/@cetinakkaya)
 
 ### 📕 Latest Blog Posts
 
