@@ -21,7 +21,8 @@
 - :earth_africa: I am currently sharing a little bit of my knowledge to the world through my blogs
 - 🥅 2023 Goals: Learn more about DevOps
 - 😻 Fun fact: I love to read and walk
-- 📫 How to find me:
+
+- 🔗 &nbsp;**Connect with me** 📫
   - :bulb: [Medium Articles](https://cetinakkaya.medium.com/)
   - :office: [LinkedIn](https://www.linkedin.com/in/cetin-akkaya/)
   - 📺:[YouTube](https://youtube.com/@cetinakkaya)
