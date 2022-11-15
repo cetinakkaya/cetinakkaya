@@ -26,7 +26,7 @@
   - :bulb: [Medium Articles](https://cetinakkaya.medium.com/)
   - :office: [LinkedIn](https://www.linkedin.com/in/cetin-akkaya/)
   - 📺:[YouTube](https://youtube.com/@cetinakkaya)
-  - :office: [Resume/Portfolio Page](http://resume.cakkaya-awsdevops.link/)
+  - :office: [Resume/Portfolio Page](http://resume.cetindevops.link/)
 
 ## 🚴 Skills
 <p>
