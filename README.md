@@ -60,7 +60,7 @@
 
   | Repository Name | Description  |
   | ------ | ------ |
-  | [AWS Services](https://github.com/cmakkaya/G1-AWS-Services/tree/master/hands-on) | Demos for different AWS Services including IAM, EC2, CFN, S3, EBS, ELB, ASG, AWS CLI, RDS, DynamoDB, Boto3, SNS, SQS, CloudWatch, Cognito, EKS, ECR, ECS, Fargate, VPC, Route53, CloudFront, ElasticBeanstalk, Lambda, EFS, NAT GW, API GW, CodeCommit, CodeBuild, CodeDeploy, CodePipeline. |
+  | [AWS Services](https://github.com/cetinakkaya/G1-AWS-Services/tree/master/hands-on) | Demos for different AWS Services including IAM, EC2, CFN, S3, EBS, ELB, ASG, AWS CLI, RDS, DynamoDB, Boto3, SNS, SQS, CloudWatch, Cognito, EKS, ECR, ECS, Fargate, VPC, Route53, CloudFront, ElasticBeanstalk, Lambda, EFS, NAT GW, API GW, CodeCommit, CodeBuild, CodeDeploy, CodePipeline. |
   | [DevOps Tools](https://github.com/cmakkaya/G2-DevOps-Tools/tree/master/hands-on) | Demos for different DevOps Tools including Terraform, Docker, Kubernetes, Ansible, Nexus, Prometheus, Grafana, Helm, Jenkins, Maven, Git-Github, Gitlab, Agile, Jira, Rancher, Selenyum. |
   | [Other Tools](https://github.com/cmakkaya/G3-Other-Tools) | Demos for different Tools including Linux, Network, Bash Scripting, VScode-Vim-Nano. |
   | [AWS DevOps Projects](https://github.com/cmakkaya/G4-AWS-DevOpsProjects) | DevOps projects using AWS. |
