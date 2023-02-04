@@ -18,7 +18,7 @@
 
 - :zap: I love math, programming, and books
 - 🌱 I’m addicted to learning and growing every day
-- :earth_africa: I am currently sharing a little bit of my knowledge to the world through my blogs
+- :earth_africa: I am currently sharing my knowledge and my projects to the world through my GitHub.
 - 🥅 2023 Goals: Learn more about DevOps
 - 😻 Fun fact: I love to read and walk
 
