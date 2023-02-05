@@ -27,7 +27,7 @@
   - :bulb: [WordPress](https://cetindevops.wordpress.com/)
   - :office: [LinkedIn](https://www.linkedin.com/in/cetin-akkaya/)
   - 📺:[YouTube](https://youtube.com/@cetinakkaya)
-  - :office: [Resume/Portfolio Page](http://resume.cetindevops.site/)
+  - :office: [Portfolio/Resume Page](https://portfolio.cetindevops.site/)
 
 ## 🚴 Skills
 <p>
