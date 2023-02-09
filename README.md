@@ -26,6 +26,7 @@
   - :bulb: [Medium Articles](https://cetinakkaya.medium.com/)
   - :bulb: [WordPress](https://cetindevops.wordpress.com/2023/02/04/static-portfolio-website-deploy-using-s3-bucket-route-53-certificate-manager-and-cloudfront/)
   - :office: [LinkedIn](https://www.linkedin.com/in/cetin-akkaya/)
+  - :gitlab: [GitLab](https://gitlab.com/cetinakkaya/)
   - 📺:[YouTube](https://youtube.com/@cetinakkaya)
   - :office: [Portfolio/Resume Page](https://portfolio.cetindevops.site/)
 
